@@ -1,0 +1,21 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies":{
+      "grunt":"*",
+      "bower":"*",
+      "karma":"*",
+      "karma-jasmine":"*",
+      "grunt-contrib-concat":"*",
+      "grunt-express":"*",
+      "grunt-contrib-jshint":"*",
+      "grunt-contrib-watch":"*"
+  }
+}
